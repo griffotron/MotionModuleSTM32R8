@@ -1,0 +1,29 @@
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.16 (main, Oct 13 2023, 05:50:11) [MSC v.1936 64 bit (AMD64)]'
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 7.0.10
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 2.1.3
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x000001DBE152FDC0>
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with U4 as a reference
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'U4'
+Located on: ['StepperDrivers', 'TMC2209-A']
+With filenames: ['C:\\Development\\Repos\\MotionModuleSTM32R8\\PCB\\MotionModuleSTM32F103R8\\stepperdrivers.kicad_sch', 'C:\\Development\\Repos\\MotionModuleSTM32R8\\PCB\\MotionModuleSTM32F103R8\\TMC2209.kicad_sch']
+With sheet_id:['StepperDrivers', 'TMC2209-A']
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('U9', ['StepperDrivers', 'TMC2209-C']), ('U8', ['StepperDrivers', 'TMC2209-B']), ('U17', ['StepperDrivers', 'TMC2209-N']), ('U16', ['StepperDrivers', 'TMC2209-M']), ('U15', ['StepperDrivers', 'TMC2209-L']), ('U14', ['StepperDrivers', 'TMC2209-K']), ('U13', ['StepperDrivers', 'TMC2209-J']), ('U12', ['StepperDrivers', 'TMC2209-I']), ('U11', ['StepperDrivers', 'TMC2209-H']), ('U10', ['StepperDrivers', 'TMC2209-E']), ('U7', ['StepperDrivers', 'TMC2209-F']), ('U6', ['StepperDrivers', 'TMC2209-G']), ('U5', ['StepperDrivers', 'TMC2209-D']), ('U4', ['StepperDrivers', 'TMC2209-A'])]
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'TMC2209-A', file:'C:\\Development\\Repos\\MotionModuleSTM32R8\\PCB\\MotionModuleSTM32F103R8\\TMC2209.kicad_sch'
+12-30 17:56:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['StepperDrivers', 'TMC2209-B'], ['StepperDrivers', 'TMC2209-C'], ['StepperDrivers', 'TMC2209-D'], ['StepperDrivers', 'TMC2209-E'], ['StepperDrivers', 'TMC2209-F'], ['StepperDrivers', 'TMC2209-G'], ['StepperDrivers', 'TMC2209-H'], ['StepperDrivers', 'TMC2209-I'], ['StepperDrivers', 'TMC2209-J'], ['StepperDrivers', 'TMC2209-K'], ['StepperDrivers', 'TMC2209-L'], ['StepperDrivers', 'TMC2209-M'], ['StepperDrivers', 'TMC2209-N']]
+12-30 17:56:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['StepperDrivers', 'TMC2209-A']
+12-30 17:56:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+12-30 17:56:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(4443, -287)
+12-30 17:56:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(4004, -287)
+12-30 17:56:48 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'StepperDrivers', file:'C:\\Development\\Repos\\MotionModuleSTM32R8\\PCB\\MotionModuleSTM32F103R8\\stepperdrivers.kicad_sch'
+12-30 17:56:48 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[]
+12-30 17:56:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['StepperDrivers']
+12-30 17:56:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+12-30 17:56:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'TMC2209-A', file:'C:\\Development\\Repos\\MotionModuleSTM32R8\\PCB\\MotionModuleSTM32F103R8\\TMC2209.kicad_sch'
+12-30 17:56:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['StepperDrivers', 'TMC2209-B'], ['StepperDrivers', 'TMC2209-C'], ['StepperDrivers', 'TMC2209-D'], ['StepperDrivers', 'TMC2209-E'], ['StepperDrivers', 'TMC2209-F'], ['StepperDrivers', 'TMC2209-G'], ['StepperDrivers', 'TMC2209-H'], ['StepperDrivers', 'TMC2209-I'], ['StepperDrivers', 'TMC2209-J'], ['StepperDrivers', 'TMC2209-K'], ['StepperDrivers', 'TMC2209-L'], ['StepperDrivers', 'TMC2209-M'], ['StepperDrivers', 'TMC2209-N']]
+12-30 17:56:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['StepperDrivers', 'TMC2209-A']
+12-30 17:56:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+12-30 17:57:10 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 321:User canceled the dialog
